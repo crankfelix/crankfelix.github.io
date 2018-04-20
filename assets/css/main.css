@@ -1327,6 +1327,10 @@
 			width: 100%;
 			margin: 0 0 2em 0;
 		}
+        .image.padding {
+            height: 130px;
+            background: white;
+        }
 
 /* Button */
 
